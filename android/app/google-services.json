@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730222257651",
+    "firebase_url": "https://abood-chat-30341.firebaseio.com",
+    "project_id": "abood-chat-30341",
+    "storage_bucket": "abood-chat-30341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730222257651:android:bc97112a1d18db10349e86",
+        "android_client_info": {
+          "package_name": "com.abood.abood_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730222257651-4n99405kqgi492b7df7jscren0ndu2b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFX5KWlIrJk7q6ihDKC4CCYamxT0vERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730222257651-4n99405kqgi492b7df7jscren0ndu2b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
